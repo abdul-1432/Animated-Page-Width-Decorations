@@ -52,7 +52,7 @@ You can customize the appearance and behavior of the animations by modifying the
 
 ## Contributing
 
-If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute, please give a pull request to the following reprosetri
 
 ## License
 
