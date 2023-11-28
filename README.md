@@ -17,7 +17,7 @@ Enhance your web pages with eye-catching animated decorations that span the enti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/animated-page-width-decorations.git
+   git clone https://github.com/abdul-1432/Animated-Page-Width-Decorations
    ```
 
 2. Include the library in your HTML file:
