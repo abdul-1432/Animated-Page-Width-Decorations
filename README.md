@@ -6,7 +6,7 @@ Enhance your web pages with eye-catching animated decorations that span the enti
 
 - **Page-Width Animations:** Decorations that dynamically adjust to the width of the user's screen, creating a seamless and responsive visual experience.
 
-- **Easy Integration:** Simple to use and integrate into your existing projects. Just include the library and customize as needed.
+- **Easy Integration:** Simple to use and integrate into your existing projects. Just include the library and customize it as needed.
 
 - **Customizable:** Customize the animations to match your website's theme. Adjust speed, colors, and styles to create a unique look.
 
@@ -52,7 +52,7 @@ You can customize the appearance and behavior of the animations by modifying the
 
 ## Contributing
 
-If you'd like to contribute, please give a pull request to the following reprosetri
+If you'd like to contribute, please give a pull request to the following repository
 
 ## License
 
