@@ -22,14 +22,14 @@ Enhance your web pages with eye-catching animated decorations that span the enti
 
 2. Include the library in your HTML file:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="path/to/animated-page-width-decorations.css">
    <script src="path/to/animated-page-width-decorations.js"></script>
    ```
 
 3. Add the required HTML structure:
 
-   ```html
+   ```HTML
    <div class="page-width-decorations">
        <!-- Your content goes here -->
    </div>
